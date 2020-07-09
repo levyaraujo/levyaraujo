@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi guys, whats up!!🚀
 
-<!--
-**levyaraujo/levyaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Levy Araujo, I'm a Junior  **Web Designer / Developer** and passionate about programming. Create solutions and new things with programming is my fuel
 
-Here are some ideas to get you started:
+# Useful Links:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My portfolio](https://levyaraujo.github.io/portfolio/) 📜
+
+# Currently learning 📖
+- [Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [Python3 with Django](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+
+# How to reach me 📨
+- [Email](mailto:levya95@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/levy-araujo-0a977a19b/)
+- [Facebook](https://www.facebook.com/levy.araujo.3192/)
