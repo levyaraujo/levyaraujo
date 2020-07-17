@@ -11,6 +11,11 @@ My name is Levy Araujo, I'm a Junior  **Web Designer / Developer** and passionat
 - [Python3 with Django](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
 # How to reach me 📨
-- [Email](mailto:levya95@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/levy-araujo-0a977a19b/)
-- [Facebook](https://www.facebook.com/levy.araujo.3192/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/levyaraujo)](https://www.github.com/levyaraujo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levy-araujo-0a977a19b/)](https://www.linkedin.com/in/levy-araujo-0a977a19b/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+94+988049873&text=Hello!)](https://api.whatsapp.com/send?phone=94988049873&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levya95@gmail.com)](mailto:levya95@gmail.com)
+
+- Thanks for visiting. 
+
+- Enjoy it!! o/
