@@ -3,7 +3,7 @@
 My name is Levy Araujo, I'm a Junior  **Web Designer / Developer** and passionate about programming. Learning new things every day to improve my knowledge. Create solutions and new things with programming is my fuel
 
 
-![My Octocat](octocat.png)
+![My Octo](cat.png)
 
 
 
