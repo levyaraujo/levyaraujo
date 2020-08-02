@@ -1,13 +1,13 @@
 # Hello, welcome to my profile! 🚀
 
-My name is Levy Araujo, I'm a Junior  **Web Designer / Developer** and passionate about programming. Learning new things every day to improve my knowledge. Create solutions and new things with programming is my fuel
+My name is Levy Araujo, I'm studying to be a **complete web developer** and passionate about programming. Learning new things every day to improve my knowledge. Create solutions and new things with programming is my fuel
 
 
 ![My Octo](cat.png)
 
 
 
-# Currently learning 📖
+# Currently studying 📖
 - [Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Python3 with Django](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
