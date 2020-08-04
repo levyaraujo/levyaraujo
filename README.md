@@ -8,6 +8,7 @@ My name is Levy Araujo, I'm studying to be a **complete web developer** and pass
 
 
 # Currently studying 📖
+-[Next Level Week #2 - Rocketseat](https://nextlevelweek.com/inscricao/2)
 - [Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Python3 with Django](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
