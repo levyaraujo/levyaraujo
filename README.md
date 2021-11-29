@@ -6,7 +6,7 @@
 
   - 👀 I’m interested in coding
 
-  - 🌱 I’m currently learning **CSS and Python**
+  - 🌱 I’m currently learning **Flask Framework**
 
   - 💞️ I’m looking to collaborate on cool projects
 
