@@ -6,7 +6,7 @@
 
   - 👀 I’m interested in coding
 
-  - 🌱 I’m currently learning **Flask Framework**
+  - 🌱 I’m currently studying **Data Structures with C language**
 
   - 💞️ I’m looking to collaborate on cool projects
 
