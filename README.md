@@ -4,13 +4,13 @@
 
   - 👋 Hi, I’m @levyaraujo
 
-  - 👀 I’m interested in coding
+  - 👀 I’m interested in **back-end development**
 
   - 🌱 I’m currently studying **Data Structures with C language**
 
   - 💞️ I’m looking to collaborate on cool projects
 
-  - 📫 How to reach me **levyaraujo.dev@gmail.com**
+  - 📫 How to reach me **lev0x79@gmail.com**
   
   
 </div>
