@@ -6,7 +6,7 @@
 
   - 👀 I’m interested in **back-end development**
 
-  - 🌱 I’m currently studying **Data Structures with C language**
+  - 🌱 I’m currently studying **Agile Development, Docker and SOLID**
 
   - 💞️ I’m looking to collaborate on cool projects
 
