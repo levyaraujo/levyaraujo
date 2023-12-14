@@ -17,10 +17,10 @@
 
 ## 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/levyaraujo">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=levyaraujo&show_icons=true&theme=nightowl">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyaraujo&langs_count=8&theme=nightowl"/>
+<!--   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyaraujo&langs_count=8&theme=nightowl"/> -->
 </div>
 
 ##
