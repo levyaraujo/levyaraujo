@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi, I'm Levy Araujo <img src="https://media2.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.gif" width="50"></h1>
-  <h4 align="center">Computer Science student / Back-end developer</h3>
+  <h4 align="center">Back-End Developer</h3>
 
   - 👋 Hi, I’m @levyaraujo
 
