@@ -6,9 +6,7 @@
 
   - 👀 I’m interested in **back-end development**
 
-  - 🌱 I’m currently studying **Agile Development, Docker and SOLID**
-
-  - 💞️ I’m looking to collaborate on cool projects
+  - 🌱 I’m currently learning **Golang**
 
   - 📫 How to reach me **lev0x79@gmail.com**
   
